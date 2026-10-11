@@ -1,0 +1,6 @@
+{
+  "name": "Neon Crush",
+  "description": "A stylized neon match-3 puzzle game featuring deep roguelike progression, cyber relics, abilities, dynamic particle effects, and boss encounters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
